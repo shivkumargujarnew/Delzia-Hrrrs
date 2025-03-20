@@ -13,6 +13,7 @@ public class Test {
 		Demo d1=Demo.getInsatnace();
 		//hello
 		  //hello2
+                //commit on 6 pm
 		Demo d2=Demo.getInsatnace();
 		
 		//System.out.println(d1.hashCode());

@@ -12,6 +12,7 @@ public class Test {
 	  public static void main(String[] args) throws Exception {
 		Demo d1=Demo.getInsatnace();
 		//hello
+		  //hello2
 		Demo d2=Demo.getInsatnace();
 		
 		//System.out.println(d1.hashCode());

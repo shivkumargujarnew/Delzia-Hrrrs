@@ -15,8 +15,8 @@ public final class Demo implements Serializable,Cloneable{
 	  
 	  
 	   public static Demo getInsatnace() throws Exception {
-		  
-		    if(d==null) {
+		 
+		    if(d==null && null==d) {
 		   
 		   synchronized (Demo.class) {
 			

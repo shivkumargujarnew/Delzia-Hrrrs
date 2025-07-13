@@ -5,7 +5,12 @@ import java.io.Serializable;
 public final class Demo implements Serializable,Cloneable{
 
 	  static Demo d;
-	   
+
+	 static Demo d; 
+
+	 static Demo d;
+
+	
 	  private Demo() throws Exception {
 		  
 		  if(d!=null) {
